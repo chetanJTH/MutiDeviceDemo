@@ -1,6 +1,5 @@
 package driver;
 
-import actions.MobileActions;
 import appium.AppiumServer;
 import constants.Constants;
 import io.appium.java_client.android.AndroidDriver;
@@ -27,12 +26,13 @@ public class DriverManager {
         capabilities.setCapability(MobileCapabilityType.FULL_RESET,Constants.FULL_RESET);
         capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, AutomationName.ANDROID_UIAUTOMATOR2);
         // set app path if your need
-//        capabilities.setCapability(MobileCapabilityType.APP, app.getAppPath());
+        capabilities.setCapability(MobileCapabilityType.APP, app.getAppPath());
         capabilities.setCapability("appPackage", app.getAppPackage());
         capabilities.setCapability("appActivity", app.getAppActivity());
         capabilities.setCapability("autoGrantPermissions", true);
         AndroidDriver driver = new AndroidDriver(appiumServer.startServer().getUrl(), capabilities);
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+
 
 
         Log.addLog("[Driver on " + device.name() +"] setup is completed!");

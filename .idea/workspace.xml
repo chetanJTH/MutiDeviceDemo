@@ -3,9 +3,60 @@
   <component name="ChangeListManager">
     <list default="true" id="59f573b7-69b4-4f09-b509-1ef3f107508d" name="Default Changelist" comment="first step">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApiDemoApp/ApiDemo.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/BasePackage/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BasePackage/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DemoTest/BasicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DemoTest/BasicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/driver/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/driver/DriverManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/utils/Apps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/Apps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/testListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/testListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BasePackage/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BasePackage/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BasePackage/FontSuite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BasePackage/ImageSuite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BasePackage/TestManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BasePackage/TestManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModule/AddText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModule/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModule/EditText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModule/FontLibrary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModule/FontOpacity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModule/FontStyle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModule/FrameLayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModule/LatterSpace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModule/LockUnlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModule/Rotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModule/Shadow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModule/TextPositionButtons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModule/TextSize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModule/UndoRedo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModuleCase/FontOpacityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModuleCase/LatterSpacing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModuleCase/LayerFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModuleCase/LockUnlockElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModuleCase/ShadowFont.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModuleCase/Style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModuleCase/TextColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModuleCase/TextPositionButtonsCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModuleCase/TextRotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModuleCase/TextSizeCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModuleCase/UndoRedoCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModuleCase/addTextOnCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModuleCase/editText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FontModuleCase/fontLibrary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ImageModule/AddImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ImageModule/EraseImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ImageStickerCase/ImageErase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ImageStickerCase/addImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/MultiDevices.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ProductAdMaker/BaseProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/driver/DriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/driver/DriverManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/extentreports/extent-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObject/AllButtons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObject/AllSeekBar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObject/ColorLibrary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObject/FontLibraryButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObject/ImageButtons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObject/TextButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObject/TopScreenButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObject/myDesignPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/Apps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utils/Apps.class" afterDir="false" />
     </list>
     <ignored path=".idea/" />
     <ignored path=".settings/" />
@@ -28,11 +79,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/BasePackage/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="39" column="67" selection-start-line="39" selection-start-column="67" selection-end-line="39" selection-end-column="67" />
+            <state relative-caret-position="687">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,66 +92,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/BasePackage/Suite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/BasePackage/TestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/DemoTestCase/BasicCase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/utils/testListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="54" column="54" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/utils/Utils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/utils/Apps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -108,22 +106,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/DemoTest/BasicTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#957#958#0" expanded="true" />
-                <element signature="e#986#987#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ApiDemoApp/ApiDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="544">
+              <caret line="55" column="9" lean-forward="true" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,10 +116,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/utils/Devices.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/driver/DriverManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <state relative-caret-position="408">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/appium/AppiumServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -180,7 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/testsuite/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/FontModuleCase/frameLayer.java" />
         <option value="$PROJECT_DIR$/src/test/java/FontModuleCase/LayerFrame.java" />
         <option value="$PROJECT_DIR$/src/test/java/ImageStickerCase/addImage.java" />
@@ -203,7 +195,6 @@
         <option value="$PROJECT_DIR$/Image_Module.xml" />
         <option value="$PROJECT_DIR$/Font_Module.xml" />
         <option value="$PROJECT_DIR$/src/test/java/BasePackage/ImageSuite.java" />
-        <option value="$PROJECT_DIR$/src/test/java/utils/testListener.java" />
         <option value="$PROJECT_DIR$/src/test/java/FontModule/TextPositionButtons.java" />
         <option value="$PROJECT_DIR$/src/test/java/FontModule/TextSize.java" />
         <option value="$PROJECT_DIR$/src/test/java/FontModule/Rotation.java" />
@@ -226,11 +217,13 @@
         <option value="$PROJECT_DIR$/src/test/java/BasePackage/TestManager.java" />
         <option value="$PROJECT_DIR$/src/test/java/ApiDemoApp/ApiDemo.java" />
         <option value="$PROJECT_DIR$/src/test/java/DemoTest/DemoTestCase.java" />
-        <option value="$PROJECT_DIR$/src/test/java/DemoTest/BasicTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/DemoTestCase/BasicCase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BasePackage/TestSuite.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utils/testListener.java" />
+        <option value="$PROJECT_DIR$/src/test/java/driver/DriverManager.java" />
         <option value="$PROJECT_DIR$/src/test/java/utils/Apps.java" />
         <option value="$PROJECT_DIR$/src/test/java/BasePackage/BaseTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/BasePackage/TestSuite.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DemoTest/BasicTest.java" />
       </list>
     </option>
   </component>
@@ -254,6 +247,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -270,7 +264,7 @@
               <item name="MutiDeviceDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="MutiDeviceDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MutiDeviceDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -284,43 +278,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MutiDeviceDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MutiDeviceDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="BasePackage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MutiDeviceDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MutiDeviceDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="BasePackage" type="462c0819:PsiDirectoryNode" />
-              <item name="Suite.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="MutiDeviceDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MutiDeviceDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/personal/AppiumTestDistribution-master" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -354,7 +322,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.D:/Projects/FinaleDemo/Font_Module.xml">
+  <component name="RunManager" selected="TestNG.TestSuite">
     <configuration name="D:/Projects/FinaleDemo/Font_Module.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MultiDevices" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Font_Module.xml" />
@@ -395,7 +363,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FontSuite" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSuite" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MultiDevices" />
       <extension name="coverage">
         <pattern>
@@ -403,8 +371,8 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testsuite" />
-      <option name="MAIN_CLASS_NAME" value="BasePackage.FontSuite" />
+      <option name="PACKAGE_NAME" value="BasePackage" />
+      <option name="MAIN_CLASS_NAME" value="BasePackage.TestSuite" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -431,11 +399,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestSuite" />
         <item itemvalue="TestNG.D:/Projects/FinaleDemo/Font_Module.xml" />
         <item itemvalue="TestNG.D:/Projects/FinaleDemo/Suite.xml" />
         <item itemvalue="TestNG.D:/Projects/FinaleDemo/Image_Module.xml" />
         <item itemvalue="TestNG.D:/Projects/FinaleDemo/suite.xml" />
-        <item itemvalue="TestNG.FontSuite" />
       </list>
     </recent_temporary>
   </component>
@@ -462,15 +430,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="D__Projects_FinaleDemo_Font_Module_xml - 2019.12.05 at 14h 58m 24s.xml">
-      <configuration name="D:/Projects/FinaleDemo/Font_Module.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__Projects_FinaleDemo_Font_Module_xml - 2019.12.05 at 14h 59m 35s.xml">
-      <configuration name="D:/Projects/FinaleDemo/Font_Module.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__Projects_FinaleDemo_Font_Module_xml - 2019.12.05 at 15h 05m 35s.xml">
-      <configuration name="D:/Projects/FinaleDemo/Font_Module.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="D__Projects_FinaleDemo_Font_Module_xml - 2019.12.05 at 15h 07m 49s.xml">
       <configuration name="D:/Projects/FinaleDemo/Font_Module.xml" configurationId="TestNG" />
     </history-entry>
@@ -492,6 +451,15 @@
     <history-entry file="D__Projects_FinaleDemo_Font_Module_xml - 2019.12.06 at 14h 21m 01s.xml">
       <configuration name="D:/Projects/FinaleDemo/Font_Module.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="D__Projects_FinaleDemo_Font_Module_xml - 2019.12.09 at 16h 17m 52s.xml">
+      <configuration name="D:/Projects/FinaleDemo/Font_Module.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuite - 2019.12.09 at 16h 20m 06s.xml">
+      <configuration name="TestSuite" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuite - 2019.12.09 at 16h 50m 47s.xml">
+      <configuration name="TestSuite" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -504,9 +472,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2506427" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2570694" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -515,7 +482,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.49098474" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.041608877" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40915394" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46185854" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -630,9 +597,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/reports/05-12-2019-131239/report.html" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/FontModuleCase/LayerFrame.java" />
-    <entry file="file://$PROJECT_DIR$/src/reports/05-12-2019-140749/report.html" />
     <entry file="file://$PROJECT_DIR$/src/test/java/BasePackage/ImageSuite.java" />
     <entry file="file://$PROJECT_DIR$/Suite.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -687,20 +651,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/FontModule/AddText.java" />
     <entry file="file://$PROJECT_DIR$/src/reports/06-12-2019-141941/report.html" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/driver/DriverManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/appium/AppiumServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/BasePackage/TestManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
@@ -712,13 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utils/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/utils/Devices.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -726,48 +669,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DemoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DemoTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/DemoTestCase.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/BasePackage/Suite.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/ApiDemoApp/ApiDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utils/testListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="54" column="54" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DemoTestCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DemoTest/BasicTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#957#958#0" expanded="true" />
-            <element signature="e#986#987#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -784,34 +694,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utils/Apps.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/utils/testListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BasePackage/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="39" column="67" selection-start-line="39" selection-start-column="67" selection-end-line="39" selection-end-column="67" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BasePackage/Suite.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/utils/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/7.0.0/java-client-7.0.0-sources.jar!/io/appium/java_client/service/local/AppiumDriverLocalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="93" column="25" selection-start-line="93" selection-start-column="25" selection-end-line="93" selection-end-column="25" />
+          <folding>
+            <element signature="e#3703#3704#0" expanded="true" />
+            <element signature="e#3729#3730#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utils/Apps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-186">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/driver/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/appium/AppiumServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/BasePackage/TestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reports/09-12-2019-165014/report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DemoTest/BasicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="55" column="9" lean-forward="true" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BasePackage/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="687">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

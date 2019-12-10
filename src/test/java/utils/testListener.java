@@ -1,22 +1,15 @@
 package utils;
 
-import FontModule.AddText;
+
 import actions.MobileActions;
-import com.aventstack.extentreports.ExtentTest;
-import com.aventstack.extentreports.MediaEntityBuilder;
 import com.aventstack.extentreports.Status;
-import com.aventstack.extentreports.markuputils.ExtentColor;
-import com.aventstack.extentreports.markuputils.MarkupHelper;
 import extentreports.ExtentReport;
-
-import org.apache.poi.ss.formula.functions.T;
-import org.openqa.selenium.WebDriver;
-import org.testng.*;
-
+import org.testng.ITestContext;
+import org.testng.ITestListener;
+import org.testng.ITestResult;
 
 import java.io.IOException;
 import java.lang.annotation.Annotation;
-import java.util.List;
 
 
 public class testListener implements ITestListener {

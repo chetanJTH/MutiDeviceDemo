@@ -2,7 +2,7 @@ package utils;
 
 public enum Apps {
 
-    ApiDemo("com.bg.flyermaker", "com.ui.activity.SplashActivity", "src/app/ApiDemos-debug.apk");
+    ApiDemo("", "", "src/app/ApiDemos-debug.apk");
 
 
     private String appPackage;
