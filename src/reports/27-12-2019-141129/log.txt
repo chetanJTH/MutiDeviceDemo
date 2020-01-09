@@ -1,0 +1,12 @@
+
+Copyright © 2019 OB.EC. All Rights Reserved.
+ =============================================
+
+[14:11:29]: =====START TEST=====
+[14:11:51]: [Driver on SamsungJ7] setup is completed!
+[14:11:51]: [APP] ApiDemo is running...
+[14:11:53]: BasicTest is RUNNING...
+[14:11:55]: Step 1
+[14:12:00]: BasicTest is Passed
+[14:12:00]: [APP] ApiDemo has been stopped
+[14:12:00]: =====FINISH TEST=====

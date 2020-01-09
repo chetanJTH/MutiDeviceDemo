@@ -1,0 +1,7 @@
+
+Copyright © 2019 OB.EC. All Rights Reserved.
+ =============================================
+
+[13:06:23]: [Driver on SamsungJ7] setup is completed!
+[13:06:23]: [APP] ApiDemo is running...
+[13:07:02]: [APP] ApiDemo has been stopped

@@ -1,19 +1,25 @@
 package BasePackage;
 
-import DemoTestCase.BasicCase;
+import DemoTestCase.*;
 import com.aventstack.extentreports.ExtentReports;
+import com.aventstack.extentreports.ExtentTest;
 import extentreports.ExtentReport;
-import org.testng.annotations.AfterSuite;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.*;
 import utils.Apps;
 import utils.Devices;
 
 
+
+
+
+
 public class BaseTest {
 
-    protected ExtentReports extent;
+
+    public static ExtentReports extent;
+    public static ExtentTest test;
+
+
     protected TestManager loginAndroid;
 
     //   Font Module
@@ -27,11 +33,12 @@ public class BaseTest {
     }
 
 
+
     @BeforeClass
     void setupDriver() throws InterruptedException {
 
         //1 times
-        Devices device = Devices.SamsungA10;
+        Devices device = Devices.SamsungJ7;
         loginAndroid = TestManager.testAndroid(device, Apps.ApiDemo);
 
 
@@ -44,10 +51,12 @@ public class BaseTest {
         extent.setSystemInfo("Device Test Version", device.getVersion());
 
 
-        Thread.sleep(1500);
+
 
 
     }
+
+
 
     @AfterTest
     void endTest() {

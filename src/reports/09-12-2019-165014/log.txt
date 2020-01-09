@@ -1,0 +1,7 @@
+
+Copyright © 2019 OB.EC. All Rights Reserved.
+ =============================================
+
+[16:50:37]: [Driver on SamsungA10] setup is completed!
+[16:50:37]: [APP] ApiDemo is running...
+[16:50:46]: [APP] ApiDemo has been stopped

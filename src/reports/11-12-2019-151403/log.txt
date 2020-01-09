@@ -1,0 +1,8 @@
+
+Copyright © 2019 OB.EC. All Rights Reserved.
+ =============================================
+
+[15:15:19]: [Driver on SamsungA10] setup is completed!
+[15:15:19]: [APP] ApiDemo is running...
+[15:15:20]: supported log types:[logcat, bugreport, server, client]
+[15:15:57]: [APP] ApiDemo has been stopped

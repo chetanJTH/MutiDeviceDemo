@@ -1,15 +1,12 @@
 package utils;
 
-
 import actions.MobileActions;
 import com.aventstack.extentreports.Status;
 import extentreports.ExtentReport;
-import org.testng.ITestContext;
-import org.testng.ITestListener;
-import org.testng.ITestResult;
-
+import org.testng.*;
 import java.io.IOException;
 import java.lang.annotation.Annotation;
+
 
 
 public class testListener implements ITestListener {
@@ -29,7 +26,7 @@ public class testListener implements ITestListener {
     public void onTestSuccess(ITestResult iTestResult) {
 
         if (iTestResult != null) {
-            String testName = iTestResult.getMethod().getDescription();
+            String testName = iTestResult.getName();
             Log.addLog(testName + " is Passed");
             ExtentReport.shared().getExtentTest().log(Status.PASS, "Test Passed");
         }
@@ -61,7 +58,7 @@ public class testListener implements ITestListener {
 
 
         if (iTestResult != null) {
-            String testName = iTestResult.getMethod().getDescription();
+            String testName = iTestResult.getName();
             Log.addLog(testName + " is SKIPPED...");
             ExtentReport.shared().getExtentTest().log(Status.SKIP, "Test Skipped");
 

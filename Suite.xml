@@ -6,13 +6,11 @@
         <listener class-name="utils.testListener"/>
     </listeners>
 
-    <suite-files>
-
-        <suite-file path="Font_Module.xml"></suite-file>
-
-        <suite-file path="Image_Module.xml"></suite-file>
-
-    </suite-files>
+    <test name="Font Module" thread-count="3" parallel="classes">
+        <classes>
+            <class name="BasePackage.TestSuite"/>
+        </classes>
+    </test>
 
 
 

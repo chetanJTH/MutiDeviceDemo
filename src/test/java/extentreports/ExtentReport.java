@@ -6,6 +6,7 @@ import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 
+// import com.aventstack.extentreports.reporter.configuration.ChartLocation;
 import utils.HTMLFormat;
 import utils.Log;
 import utils.Utils;
@@ -50,7 +51,6 @@ public class ExtentReport {
 
                 htmlReporter = new ExtentHtmlReporter(Utils.getReportDir() + "/report.html");
                 htmlReporter.loadXMLConfig(String.valueOf(new File("src/test/java/extentreports/extent-config.xml")));
-                htmlReporter.config().enableTimeline(true);
 //                htmlReporter.config().setChartVisibilityOnOpen(true);
 //                htmlReporter.config().setTestViewChartLocation(ChartLocation.TOP);
 //                htmlReporter.setAppendExisting(false);
@@ -98,6 +98,8 @@ public class ExtentReport {
         ExtentTest childExtentTest = extent.createNode(name, description);
         return childExtentTest;
     }
+
+
 
 
     // Add log to report file
